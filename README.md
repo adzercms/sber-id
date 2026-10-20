@@ -1,5 +1,5 @@
 # adzercms/sber-id
 
-Sign-in with Sber ID for AdzerCMS: OpenID Connect and account linking
+Sign in to an AdzerCMS site with Sber ID and link it to your account
 
 Read-only package repository: changes go to the monorepository https://github.com/adzercms/adzercms.
